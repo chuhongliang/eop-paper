@@ -1,9 +1,9 @@
 {
   "name": "eop-paper",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "create your simple, fast & elegant blog with plain text",
   "bin": {
-    "eop-paper": "./bin/papery.js"
+    "paper": "./bin/paper.js"
   },
   "dependencies": {
     "marked": "^0.3.2",
