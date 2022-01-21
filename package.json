@@ -11,7 +11,7 @@
     "underscore": "^1.5.1",
     "js-yaml": "^2.1.0",
     "ejs": "^0.8.4",
-    "log4js": "^0.6.7",
+    "log4js": "^6.4.0",
     "connect": "^2.8.5",
     "fs-extra": "^8.1.0",
     "marked-toc": "^0.2.6"
